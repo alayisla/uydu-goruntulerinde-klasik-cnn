@@ -1,0 +1,1 @@
+# uydu-goruntulerinde-klasik-cnn
